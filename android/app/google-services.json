@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018922582107",
+    "project_id": "furnifable",
+    "storage_bucket": "furnifable.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018922582107:android:859a4ac1e9f2208552ff7e",
+        "android_client_info": {
+          "package_name": "com.example.furnifable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHBT09U7JnqInp4n4bYLHiVnpysTCjoSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
