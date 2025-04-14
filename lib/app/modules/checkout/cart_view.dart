@@ -19,7 +19,7 @@ class CartView extends StatelessWidget {
         leading: const BackButton(),
         centerTitle: true,
         title: Text(
-          'Cart',
+          'Cart Here',
           style: AppTypography.kSemiBold18.copyWith(color: AppColors.kGrey100),
         ),
       ),
