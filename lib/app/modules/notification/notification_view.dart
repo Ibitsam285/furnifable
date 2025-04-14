@@ -13,7 +13,7 @@ class NotificationView extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         title: Text(
-          'Notifications',
+          'Notification',
           style: AppTypography.kSemiBold16.copyWith(color: AppColors.kGrey100),
         ),
       ),
